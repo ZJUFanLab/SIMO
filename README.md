@@ -48,7 +48,7 @@ We have applied SIMO on datasets, here we give step-by-step tutorials for all ap
 
 
 * [Spatial integration of the mouse cortex](tutorial/mouse_brain.ipynb)
-* [# Spatial integration of the human myocardial infarction](tutorial/human_heart.ipynb)
+* [Spatial integration of the human myocardial infarction](tutorial/human_heart.ipynb)
 
 ## About
 Should you have any questions, please feel free to contact the author of the manuscript, Mr. Penghui Yang (yangph@zju.edu.cn).
