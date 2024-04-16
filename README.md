@@ -1,6 +1,7 @@
 
 
-# SIMO v1.0.0 <img src='images/icon.png' align="right" height="150" /></a>
+# SIMO v1.0.0 <img src='images/icon.png' align="right" height="200
+                " /></a>
 
 # Spatial integration of multi-omics single-cell data
 
