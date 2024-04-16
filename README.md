@@ -39,7 +39,7 @@ SIMO is a computational method, which perform Spatial Integration of Multi-Omics
 # Create and activate Python environment
 conda create -n simo python=3.8
 conda activate simo
-
+# Installation of SIMO
 pip install simo-omics
 ```
 ## Tutorials
