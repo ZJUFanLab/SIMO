@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='simo-omics',
-    version='1.0.1',
+    version='v1.0.0',
     author='Penghui Yang',
     author_email='yangph@zju.edu.cn',
     description='SIMO: Spatial Integration of Multi-Omics single-cell datasets through probabilistic alignment',
