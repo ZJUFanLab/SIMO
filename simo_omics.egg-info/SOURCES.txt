@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+simo/__init__.py
+simo/clustering.py
+simo/evals.py
+simo/helper.py
+simo/regulation.py
+simo/simo.py
+simo/visualization.py
+simo_omics.egg-info/PKG-INFO
+simo_omics.egg-info/SOURCES.txt
+simo_omics.egg-info/dependency_links.txt
+simo_omics.egg-info/requires.txt
+simo_omics.egg-info/top_level.txt

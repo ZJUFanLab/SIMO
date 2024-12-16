@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: simo-omics
+Version: 1.0.1
+Summary: SIMO: Spatial Integration of Multi-Omics single-cell datasets through probabilistic alignment
+Home-page: https://github.com/ZJUFanLab/SIMO
+Author: Penghui Yang
+Author-email: yangph@zju.edu.cn
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+SIMO is an advanced Python package designed for the spatial integration of multi-omics data from single-cell datasets, utilizing probabilistic alignment techniques to accurately depict single-cell maps and reconstruct the spatial distribution of various biological molecules, thereby providing crucial insights into the complex multimodal heterogeneity and topological patterns of cells essential for advancing spatial biology.
