@@ -54,3 +54,4 @@ We have applied SIMO on datasets, here we give step-by-step tutorials for all ap
 Should you have any questions, please feel free to contact the author of the manuscript, Mr. Penghui Yang (yangph@zju.edu.cn).
 
 ## References
+Penghui Yang, Kaiyu Jin, Yue Yao, Lijun Jin, Xin Shao, Chengyu Li, Xiaoyan Lu, and Xiaohui Fan. Spatial integration of multi-omics single-cell data with SIMO. Nat Commun 16, 1265 (2025)
